@@ -1,0 +1,44 @@
+# Blender MTL File: 'tv set.blend'
+# Material Count: 3
+
+newmtl Material.008
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 4.500000 /home/abhishek/Downloads/Wood003_2K-JPG/Wood003_2K_Normal.jpg
+map_Kd /home/abhishek/Downloads/Wood003_2K-JPG/Wood003_2K_Color.jpg
+map_Ns /home/abhishek/Downloads/Wood003_2K-JPG/Wood003_2K_Roughness.jpg
+map_d /home/abhishek/Downloads/Wood003_2K-JPG/Wood003_2K_Displacement.jpg
+
+newmtl cupboard
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 10.000000 /home/abhishek/Downloads/Wood003_2K-JPG/Wood003_2K_Normal.jpg
+map_Kd /home/abhishek/Downloads/Wood003_2K-JPG/Wood003_2K_Color.jpg
+map_Ns /home/abhishek/Downloads/Wood003_2K-JPG/Wood003_2K_Roughness.jpg
+map_d /home/abhishek/Downloads/Wood003_2K-JPG/Wood003_2K_Displacement.jpg
+
+newmtl handle
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump /home/abhishek/Downloads/Wood003_2K-JPG/Wood003_2K_Normal.jpg
+map_Kd /home/abhishek/Downloads/Wood003_2K-JPG/Wood003_2K_Color.jpg
+map_Ns /home/abhishek/Downloads/Wood003_2K-JPG/Wood003_2K_Roughness.jpg
+map_d /home/abhishek/Downloads/Wood003_2K-JPG/Wood003_2K_Displacement.jpg
